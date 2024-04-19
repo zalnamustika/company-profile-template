@@ -1,10 +1,6 @@
 # open terminal
 composer install
-php artisan migrate:fresh
-php artisan migrate
-php artisan db:seed
 php artisan serve
- 
 
 # open browser
 ketik url localhost:8000
